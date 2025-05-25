@@ -44,8 +44,7 @@ Công cụ này sẽ giúp bạn xoá dòng chữ đó một cách gọn gàng, 
 
 ## 🚀 Dùng Thử Trực Tuyến
 
-👉 [Chạy ngay trên Hugging Face Spaces](https://huggingface.co/spaces/YOUR_USERNAME/xoa-nhan-pdf)  
-(*Thay thế link bằng liên kết thực tế của bạn*)
+👉 [Chạy ngay trên Hugging Face Spaces](https://huggingface.co/spaces/hoangthuandev/PDF-Delabeling-Google-Translate)  
 
 ---
 
